@@ -47,7 +47,7 @@
 			"id": 3,
 			"yeti_id": 89051,
 			"country_abbr": "CZ",
-			"name": "Agra pojišťovnaaaaaaaaaaaa",
+			"name": "Agra pojišťovna",
 			"company_address": {
 				"city": "Praha 6",
 				"street": "Střešovická 748/48",
@@ -59,7 +59,7 @@
 			"app_pojistovny": {
 				"use_in_app": true,
 				"is_visible": true,
-				"title": "Agra pojišťovnppppppa",
+				"title": "Agra pojišťovna - dpplneno",
 				"description": null,
 				"links":[
 					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "http://www.agrapojistovna.cz/"},
