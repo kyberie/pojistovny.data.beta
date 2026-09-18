@@ -1,8 +1,8 @@
 {	"json_version":1,
 	"version":{
 		"IOS_UNSUPPORTED_VERSION":0,
-		"IOS_LAST_VERSION":28,
-		"IOS_LAST_SUPPORTED_VERSION":25,
+		"IOS_LAST_VERSION":35,
+		"IOS_LAST_SUPPORTED_VERSION":29,
 		"ANDROID_UNSUPPORTED_VERSION":1,
 		"ANDROID_LAST_VERSION":4,
 		"ANDROID_LAST_SUPPORTED_VERSION":2
@@ -59,7 +59,7 @@
 			"app_pojistovny": {
 				"use_in_app": true,
 				"is_visible": true,
-				"title": "Agra pojišťovna - dpplneno",
+				"title": "Agra pojišťovna",
 				"description": null,
 				"links":[
 					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "http://www.agrapojistovna.cz/"},
